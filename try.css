@@ -1,0 +1,292 @@
+.nav1{
+    
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    margin-bottom: -15px;
+    
+    
+    
+    
+    
+}
+.nvdiv{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20%;
+    
+}
+
+.ul1{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    list-style-type: none;
+    
+
+}
+.nvh1{
+    padding-left: 5%;
+    font-weight: 600;
+    font-size: 30px;
+    margin-left: 20px;
+
+}
+.nav1 a{
+    text-decoration: none;
+    padding: 15px;
+
+}
+.s1{
+
+    background-color: brown;
+    background-image: url(image/bus4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.nav2{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    background-color: blue;
+    text-decoration: none;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 25%;
+    
+    
+    
+}
+.nav2 a{
+    text-decoration: none;
+    
+    color: white;
+
+}
+.nvdiv2{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+
+}
+.ul2{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    display: flex;
+    list-style-type: none;
+}
+.home{
+    
+    display: list-item;
+    margin-left: 15%;
+    margin-bottom: 20px;
+}
+
+   
+.home h2{
+    color: blue;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 3%;
+    
+
+}
+.home p{
+
+    color: white;
+    font-size: 30px;
+    
+    
+    font-weight: 500;
+}
+.bm{
+    background-color:blue;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 6px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+
+
+}
+.s2 {
+    
+    gap: 5px;
+    background-color: white;
+    padding-left: 8%;
+    padding-right: 8%;
+    
+    padding-top: 2px;
+    margin-top: -2%;
+    
+}
+
+.d1{
+    margin-bottom: 20px;
+    
+    
+
+}
+
+.bx{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 2fr));
+    
+   
+    text-align: center;
+    grid-gap: 1.5em;
+    padding: 15px 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    
+    
+    
+}
+
+
+    
+
+.bxm{
+    box-shadow: rgba(100,100,111, 0.2);
+    background-color: antiquewhite;
+    margin-right: 22%;
+    
+    
+}
+.d1 h3{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    color:blue;
+    
+    
+}
+.d1 p{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bx h2{
+  
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}   
+
+.s3{
+    display: flex;
+    justify-content: space-between;
+    background-color:white ;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 5%;
+
+    
+}
+.ab{
+    
+    display: flex;
+    justify-content:space-between ;
+    background-color: antiquewhite;
+    margin: 0;
+    
+   
+}
+.ab img{
+       width: 90%; 
+       padding-left: 10%;
+       height: 90%;
+       background-color: white;  
+    
+    
+}
+.ab2{
+    
+    align-items: flex-end;
+    padding-left: 10%;
+    margin-right: 10%;
+}
+.mi{
+    background-color: rgb(118, 118, 245);;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 25px;
+    font-size: 16px;
+    
+}
+.s4{
+    background-color: blue;
+    
+    
+   
+}
+
+
+
+
+
+.mx{
+    box-shadow: rgba(100,100,111, 0.2);
+    background-color: antiquewhite;
+    
+    margin-right: 20%;
+}
+.vmb{
+    background-color:rgb(118, 118, 245);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+.mxb{
+    
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    
+
+    background: white;
+    text-align: center;
+    
+    
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.5rem;
+    border: 10rem;
+    width: 80%;
+    padding: 0 10%;
+    margin-bottom: 18px;
+    
+    
+}
+
+footer{
+
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    
+    font-size: 20px;
+    margin-top: 8;
+    bottom: 0;
+    
+
+}
+
+
+
+    
+
+    
+    
